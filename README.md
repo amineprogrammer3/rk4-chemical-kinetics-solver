@@ -21,10 +21,6 @@ methodology and results only.*
   <img src="images/Solved_Westbrook_Dryer_Methane_Combustion_reduced_mechanism.png.png" alt="Solved Westbrook & Dryer Methane Combustion reduced mechanism" width="600">
 </p>
 
-<p align="center">
-  <img src="images/images/CO2_Reduction.png" alt="Solved Carbon Dioxide CO2 Reduction Mechanism" width="600">
-</p>
-
 
 <p align="center">
   <img src="images/Custom_chemical_reaction_ODE_mechanism_solved_used_the_RK4_solver.png.png" alt="Custom chemical reaction ODE mechanism solved using the RK4 solver" width="600">

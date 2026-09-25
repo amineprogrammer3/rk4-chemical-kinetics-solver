@@ -22,7 +22,7 @@ methodology and results only.*
 </p>
 
 <p align="center">
-  <img src="images/CO2_Reductionpng.png.png" alt="Solved Carbon Dioxide CO2 Reduction Mechanism" width="600">
+  <img src="images/images/CO2_Reduction.png.png" alt="Solved Carbon Dioxide CO2 Reduction Mechanism" width="600">
 </p>
 
 

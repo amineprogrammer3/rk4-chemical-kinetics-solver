@@ -25,4 +25,4 @@ defined and solved using the same RK4 engine.
 </p>
 
 ## Skills
-Python · Numerical Methods · Chemical Kinetics · Combustion Modeling · Scientific Computing
+Python · Numerical Methods · Stiff Chemical Kinetics · Combustion Modeling · Scientific Computing

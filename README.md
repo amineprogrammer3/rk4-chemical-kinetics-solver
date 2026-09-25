@@ -22,6 +22,11 @@ methodology and results only.*
 </p>
 
 <p align="center">
+  <img src="images/CO2_Reductionpng" alt="Solved Carbon Dioxide CO2 Reduction Mechanism" width="600">
+</p>
+
+
+<p align="center">
   <img src="images/Custom_chemical_reaction_ODE_mechanism_solved_used_the_RK4_solver.png.png" alt="Custom chemical reaction ODE mechanism solved using the RK4 solver" width="600">
 </p>
 

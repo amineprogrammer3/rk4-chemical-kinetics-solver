@@ -11,9 +11,9 @@ defined and solved using the same RK4 engine.
 methodology and results.*
 
 ## Method
-- 4th-order Runge-Kutta (RK4) integration scheme
-- Applied to the Westbrook-Dryer reduced mechanism for methane combustion
-- Modular design supporting custom ODE system definitions
+- 4th-order Runge-Kutta (RK4) integration scheme.
+- Applied and solved the Westbrook-Dryer reduced mechanism for Methane combustion.
+- Modular design supporting custom ODE system definitions to be solved with the main RK4 solver.
 
 ## Results
 

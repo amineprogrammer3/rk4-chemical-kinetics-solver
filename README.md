@@ -16,7 +16,7 @@ methodology and results.*
 - Modular design supporting custom ODE system definitions
 
 ## Results
-![Species concentration profile](images/concentration_profile.png)
+![Species concentration profile](images/Solved Westbrook & Dryer Methane Combustion reduced mechanism..png)
 ![Temperature profile](images/temperature_profile.png)
 
 ## Skills

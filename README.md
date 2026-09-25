@@ -12,7 +12,7 @@ methodology and results only.*
 
 ## Method
 - 4th-order Runge-Kutta (RK4) integration scheme.
-- Applied and solved the Westbrook-Dryer reduced mechanism for Methane combustion while for the two-stage behavior of the Westbrook & Dryer reduced mechanism (CO Dropping while CO2 raising).
+- Applied and solved the Westbrook-Dryer reduced mechanism for Methane combustion while accounting for the two-stage behavior of the Westbrook & Dryer reduced mechanism (CO Dropping while CO2 raising).
 - Modular design supporting custom ODE system definitions to be solved with the main RK4 solver.
 
 ## Results

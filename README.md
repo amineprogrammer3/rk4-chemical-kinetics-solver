@@ -7,8 +7,6 @@ kinetics. Applied to the Westbrook-Dryer reduced mechanism for methane
 combustion, with a modular structure allowing custom ODE systems to be 
 defined and solved using the same RK4 engine.
 
-*Note: Core implementation is private. This repository showcases the 
-methodology and results only.*
 
 ## Method
 - 4th-order Runge-Kutta (RK4) integration scheme.

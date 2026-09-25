@@ -16,8 +16,8 @@ methodology and results.*
 - Modular design supporting custom ODE system definitions
 
 ## Results
-![Solved Westbrook & Dryer Methane Combustion reduced mechanism](images/Solved_Westbrook_Dryer_Methane_Combustion_reduced_mechanism.png)
-![Custom chemical reaction ODE mechanism solved using the RK4 solver](images/Custom_chemical_reaction_ODE_mechanism_solved_used_the_RK4_solver.png)
+![Solved Westbrook & Dryer Methane Combustion reduced mechanism](images/Solved_Westbrook_Dryer_Methane_Combustion_reduced_mechanism.png.png)
+![Custom chemical reaction ODE mechanism solved using the RK4 solver](images/Custom_chemical_reaction_ODE_mechanism_solved_used_the_RK4_solver.png.png)
 
 ## Skills
 Python · Numerical Methods · Chemical Kinetics · Combustion Modeling · Scientific Computing
